@@ -1,1 +1,2 @@
 First line for featureA
+Second line for featureA
